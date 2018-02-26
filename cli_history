@@ -1,0 +1,12 @@
+  321  touch cli.md
+  322  nano cli.md
+  323  cat cli.md
+  324  mkdir notes
+  325  cd notes
+  326  mv ../cli.md .
+  327  cp cli.md cli-2.md
+  328  ls
+  329  rm cli.md
+  330  mv cli-2.md cli.md
+  331  cd ..
+  332  rm -rf notes
